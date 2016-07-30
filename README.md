@@ -1,16 +1,16 @@
 # Login-Signup-Node
-simple signup and login in node 
+simple signup and login in node <br>
 
-technologies used
--express
--ejs : template
--ejs-mate 
--mongoose :connect to mlab
--express-flash : flashing messages req.flash()
--express-session
--cookie-parser 
--body-parser : parsing body -req.body
--passport : user authentication
--connect-mongo : to store session data in mongodb
+technologies used <br>
+-express <br>
+-ejs : template <br>
+-ejs-mate  <br>
+-mongoose :connect to mlab <br>
+-express-flash : flashing messages req.flash() <br>
+-express-session <br>
+-cookie-parser <br>
+-body-parser : parsing body -req.body  <br>
+-passport : user authentication <br>
+-connect-mongo : to store session data in mongodb <br>
 
 
